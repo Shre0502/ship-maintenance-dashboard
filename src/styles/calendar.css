@@ -1,0 +1,10 @@
+.rbc-calendar {
+  background-color: white;
+  font-family: sans-serif;
+}
+.rbc-event {
+  background-color: #1976d2;
+  color: white;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
