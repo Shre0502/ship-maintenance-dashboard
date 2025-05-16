@@ -55,16 +55,16 @@ src/
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### 🚢 Ships Management
-![Ships](./screenshots/ships.png)
+![Ships](./ships.png)
 
 ### 🧩 Component Details
-![Component](./screenshots/component-details.png)
+![Component](./component-details.png)
 
 ### 📅 Job Calendar
-![Calendar](./screenshots/calendar.png)
+![Calendar](./calendar.png)
 
 ---
 
